@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+}
+
+.intro {
+    position: absolute;
+    top: 0%;
+    left:15%;
+    font-size: 70px;
+    font-weight: 900;
+    color: #EF7878;
+
+}
+img.dechen{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    max-width: 20%;
+    height: auto;
+}
+
+.box1 {
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    line-height: 50px; 
+    background-color: #55EFDD;
+    border: 2px solid #EF7878; 
+    transition: background-color 0.3s ease;
+}
+.box1:hover {
+    background-color: #EF7878;
+}
+
+.box2 {
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #55EFDD;
+    border: 2px solid #EF7878; 
+    transition: background-color 0.3s ease;
+}
+.box2:hover {
+    background-color: #EF7878;
+}
+
+.box3 {
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    line-height: 50px; 
+    background-color: #55EFDD;
+    border: 2px solid #EF7878;
+    transition: background-color 0.3s ease;
+}
+.box3:hover {
+    background-color: #EF7878;
+}
+
+.box4 {
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    line-height: 50px; 
+    background-color: #55EFDD;
+    border: 2px solid #EF7878;
+    transition: background-color 0.3s ease;
+}
+.box4:hover {
+    background-color: #EF7878;
+}
+
+.box5 {
+    position: absolute;
+    top: 80%;
+    left: 75%;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #55EFDD;
+    border: 2px solid #EF7878;
+    transition: background-color 0.3s ease;
+}
+.box5:hover {
+    background-color: #EF7878;
+}

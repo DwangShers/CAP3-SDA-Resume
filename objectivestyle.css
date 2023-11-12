@@ -1,0 +1,82 @@
+body {
+    background-color: #fff;
+}
+.text {
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+}
+.objective {
+    position: absolute;
+    top: 2%;
+    left: 40%;
+    font-size: 50px; 
+    color: #ef7878;
+    font-weight: 500;
+}
+.back-color {
+    background-color: #55efdd;
+    position: absolute;
+    top: 6%;
+    left: 14%;
+    border: 2px solid #fcf8f8; /* Border style: 2px width, solid, color #333 */
+    padding: 40px 700px; 
+    z-index: -1;
+}
+.border {
+    position: absolute;
+    top: 4%;
+    left: 12%;
+    border: 2px solid #333; /* Border style: 2px width, solid, color #333 */
+    padding: 40px 700px; 
+}
+.return {
+    position: absolute;
+    top: 5%;
+    left: 2%;
+    width: 4%;
+    height: 8%;
+}
+.zigline1 {
+    position: absolute;
+    top: 35%;
+    width: 8%;
+    
+}
+.zigline2 {
+    position: absolute;
+    top: 40%;
+    width: 8%;
+    
+}
+.zigline3 {
+    position: absolute;
+    top: 45%;
+    width: 8%;
+    
+}
+
+.rectangle1 {
+    position: absolute;
+    top: -1.5%;
+    left: -1%;
+    width: 120px;
+    height: 1001px;
+    background-color: #F5F5F5;
+    border: 2px solid #F5F5F5;
+    margin: 20px;
+    z-index: -1;
+}
+.rectangle2 {
+    position: absolute;
+    top: -1.5%;
+    left: 93%;
+    width: 120px;
+    height: 1001px;
+    background-color: #F5F5F5;
+    border: 2px solid #F5F5F5;
+    margin: 20px;
+}

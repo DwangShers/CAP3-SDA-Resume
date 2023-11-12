@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+}
+
+.resume {
+    position: absolute;
+    top: 0%;
+    left:20%;
+    font-size: 90px;
+    font-weight: 900;
+    color: #55EFDD;
+
+}
+
+.student {
+    position: absolute;
+    top: 7%;
+    left:20%;
+    letter-spacing: -6px;
+    font-size: 65px;
+    font-weight: 300;
+    color: #EF7878;
+    margin-top: 140px;
+}
+
+.image{
+    position: absolute;
+    top: 40%;
+    left:20%;
+    margin-top: 20px;
+}
+
+.image img {
+    width: 45px; 
+    margin-right: 88px;
+}
+
+.figma {
+    position: absolute;
+    top: 55%;
+    left:20%;
+    margin-top: 20px;
+    text-decoration: none;
+    color:#ffff;
+    margin-right: 55px;
+}
+
+.github {
+    position: absolute;
+    top: 55%;
+    left:30%;
+    margin-top: 20px;
+    text-decoration: none;
+    color:#ffff;
+    margin-right: 55px;
+}
+
+.leetcode {
+    position: absolute;
+    top: 55%;
+    left:40%;
+    margin-top: 20px;
+    text-decoration: none;
+    color:#ffff;
+    margin-right: 55px;
+}
+
+.slide {
+    position: absolute;
+    left:42%;
+    z-index: 1;
+
+}
+.arrow {
+    position: absolute;
+    left:45.5%;
+    top: 27%;
+    z-index: 1;
+}
+.arrow :hover {
+    color: aquamarine;
+}
